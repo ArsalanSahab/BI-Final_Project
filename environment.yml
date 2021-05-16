@@ -1,0 +1,10 @@
+name: jupyter-actions
+channels:
+    - conda-forge
+dependencies:
+  - jupyter
+  - nbformat
+  - nbconvert
+  - numpy
+  - pandas
+  - pytest
